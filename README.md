@@ -32,4 +32,4 @@ Feel free to use the above code as you would like!
 
 ## Workflow Description <a name="work"></a>
 
-You can access the post delineating my project workflow [here]().
+You can access the post delineating my project workflow [here](https://medium.com/@goelprateek/sparkify-815cf9b55a06).
